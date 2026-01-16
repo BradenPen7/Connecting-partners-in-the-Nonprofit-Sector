@@ -1,10 +1,10 @@
 ## This repository includes both the midterm and final of MG 403, as well as ideas we had for connecting our class partner, WE INC.
 
-## This project is focused on connecting our class partner, Workshops Incoporated, with other organizations in the nonprofit sector. 
+## This project is focused on connecting our class partner, WE INC, with other organizations in the nonprofit sector. 
 
-## The organizations must fit the criteria that compliment both parties, which shifted our focus to the collaboration between them and Disability Rights and Resources.
+## The organizations must fit the criteria that compliment both parties, which shifted our focus to the collaboration between WE INC. and Disability Rights and Resources.
 
-## Our main idea for Disability Rights and Resources was the ability to cross-reference clients between both organizations.
+## Our main idea between WE INC. and Disability Rights and Resources was the ability to cross-reference clients between both organizations.
 
 ## Orginally we were tasked with one organization for midterms, but shifted our focus towards the marketing aspect of other organizations that compliment WE Inc. 
 
